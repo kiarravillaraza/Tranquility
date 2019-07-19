@@ -64,6 +64,7 @@
 		188A629F22E105570066D142 /* timerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 188A629E22E105570066D142 /* timerViewController.swift */; };
 		188A62A122E108690066D142 /* alarm icon2 in Resources */ = {isa = PBXBuildFile; fileRef = 188A62A022E108690066D142 /* alarm icon2 */; };
 		188A62A322E108E70066D142 /* timer-icon-2.png in Resources */ = {isa = PBXBuildFile; fileRef = 188A62A222E108E60066D142 /* timer-icon-2.png */; };
+		188A62A522E20E300066D142 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 188A62A422E20E300066D142 /* icon.png */; };
 		18A146EB22DFC076002F5632 /* Playlist1ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A146EA22DFC076002F5632 /* Playlist1ViewController.swift */; };
 		18A146ED22DFC3A2002F5632 /* guidedmed.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 18A146EC22DFC3A2002F5632 /* guidedmed.jpeg */; };
 		18A146EF22DFC3B1002F5632 /* yogamed.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 18A146EE22DFC3B1002F5632 /* yogamed.jpeg */; };
@@ -151,6 +152,7 @@
 		188A629E22E105570066D142 /* timerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = timerViewController.swift; sourceTree = "<group>"; };
 		188A62A022E108690066D142 /* alarm icon2 */ = {isa = PBXFileReference; lastKnownFileType = file; name = "alarm icon2"; path = "../../../Downloads/alarm icon2"; sourceTree = "<group>"; };
 		188A62A222E108E60066D142 /* timer-icon-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "timer-icon-2.png"; path = "../../../Downloads/timer-icon-2.png"; sourceTree = "<group>"; };
+		188A62A422E20E300066D142 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = icon.png; path = ../../icon.png; sourceTree = "<group>"; };
 		18A146EA22DFC076002F5632 /* Playlist1ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Playlist1ViewController.swift; sourceTree = "<group>"; };
 		18A146EC22DFC3A2002F5632 /* guidedmed.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = guidedmed.jpeg; path = ../../../Downloads/guidedmed.jpeg; sourceTree = "<group>"; };
 		18A146EE22DFC3B1002F5632 /* yogamed.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = yogamed.jpeg; path = ../../../Downloads/yogamed.jpeg; sourceTree = "<group>"; };
@@ -213,6 +215,7 @@
 				185BA7E622DF825500B5146C /* AppDelegate.swift */,
 				185BA7E822DF825500B5146C /* ViewController.swift */,
 				185BA7EA22DF825500B5146C /* Main.storyboard */,
+				188A62A422E20E300066D142 /* icon.png */,
 				188A62A022E108690066D142 /* alarm icon2 */,
 				188A629E22E105570066D142 /* timerViewController.swift */,
 				188A629C22E1047B0066D142 /* Screen Shot 2019-07-18 at 2.47.53 PM.png */,
@@ -422,6 +425,7 @@
 				188A629B22E101FC0066D142 /* Screen Shot 2019-07-18 at 2.36.52 PM.png in Resources */,
 				188A629922E0FE560066D142 /* map1.png in Resources */,
 				188A628D22E0C8A10066D142 /* quote3.png in Resources */,
+				188A62A522E20E300066D142 /* icon.png in Resources */,
 				185BA7F122DF825600B5146C /* Assets.xcassets in Resources */,
 				187C751622E0B90A004D8C39 /* bm11.png in Resources */,
 				185BA81A22DF84A400B5146C /* imageedit_2_2995297331.png in Resources */,

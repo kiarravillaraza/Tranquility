@@ -611,7 +611,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="r1L-5H-OCp" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-257.97101449275362" y="7.3660714285714279"/>
+            <point key="canvasLocation" x="-286" y="7"/>
         </scene>
         <!--Locations View Controller-->
         <scene sceneID="4t0-DJ-kfz">
@@ -707,7 +707,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="f6O-VY-6BL" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="792.75362318840587" y="1013.8392857142857"/>
+            <point key="canvasLocation" x="999" y="1035"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="myo-2K-Dfs">
@@ -1079,10 +1079,6 @@
                                 </attributedString>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Screen Shot 2019-07-17 at 1.31.37 PM.png" translatesAutoresizingMaskIntoConstraints="NO" id="AAz-yi-2Jz">
-                                <rect key="frame" x="60" y="568" width="240" height="211"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                            </imageView>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="snf-Ty-IvF">
                                 <rect key="frame" x="93" y="594" width="175" height="153"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
@@ -1106,7 +1102,6 @@
     </scenes>
     <resources>
         <image name="Screen Shot 2019-07-17 at 1.31.37 PM-1" width="218" height="76"/>
-        <image name="Screen Shot 2019-07-17 at 1.31.37 PM.png" width="109" height="38"/>
         <image name="Screen Shot 2019-07-18 at 1.48.43 PM" width="512" height="442"/>
         <image name="Screen Shot 2019-07-18 at 1.49.38 PM" width="610" height="638"/>
         <image name="Screen Shot 2019-07-18 at 1.50.50 PM" width="278" height="254"/>
@@ -1154,11 +1149,11 @@
         <image name="yogamed" width="300" height="300"/>
     </resources>
     <inferredMetricsTieBreakers>
-        <segue reference="LXA-o9-fpd"/>
-        <segue reference="e8L-aO-ZhX"/>
-        <segue reference="ihG-QE-HIC"/>
-        <segue reference="cBJ-ko-ZGG"/>
-        <segue reference="3CK-Je-HWD"/>
-        <segue reference="28g-WY-uOK"/>
+        <segue reference="yoD-u2-MTW"/>
+        <segue reference="pVp-L6-HnX"/>
+        <segue reference="AHQ-ec-UC4"/>
+        <segue reference="v0a-bZ-AiO"/>
+        <segue reference="Q6j-RH-ZKo"/>
+        <segue reference="hdj-vD-2SA"/>
     </inferredMetricsTieBreakers>
 </document>

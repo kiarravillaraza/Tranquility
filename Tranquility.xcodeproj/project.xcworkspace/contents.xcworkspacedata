@@ -2,12 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:../PlaylistsViewController.swift">
-   </FileRef>
-   <FileRef
-      location = "group:../../../Downloads/brain.png">
-   </FileRef>
-   <FileRef
       location = "self:Tranquility.xcodeproj">
    </FileRef>
 </Workspace>
